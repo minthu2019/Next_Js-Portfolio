@@ -36,7 +36,7 @@ const Navbar = () => {
   }
 
   return (
-    <nav className=' max-w-[1440px] mx-auto fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-black to-transparent bg-opacity-100'>
+    <nav className=' max-w-[1440px] mx-auto fixed top-0 left-0 right-0 z-10 bg-gradient-to-r from-orange-500 to-transparent bg-opacity-100'>
       <div className=' flex flex-wrap items-center justify-between mx-auto py-4 px-8
       '> 
         <Link href={"/"}  className=' text-2xl md:text-5xl text-white font-semibold'> LOGO</Link>
