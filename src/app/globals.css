@@ -24,4 +24,13 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
+    scroll-behavior: smooth;
+    
 }
+
+/* .socials{
+  background: #ADB7BE;
+  color: white;
+  width: 66px;
+  height: 66px;
+} */
