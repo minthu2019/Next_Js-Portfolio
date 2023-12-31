@@ -6,9 +6,6 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 const EmailSection = () => {
-
-
-
   
   return (
     <section className=' grid md:grid-cols-2 my-12 md:my-12 py-12 gap-4 relative' id='connect'>
